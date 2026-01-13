@@ -82,6 +82,10 @@ The analysis answers critical questions such as:
 
 ---
 
+## 📊 Dashboard Overview
+
+<img src="./dashboard screenshots/dashboard.gif" width="50%" height="50%"/>
+
 ## 👤 Author
 
 **Rishabh**
