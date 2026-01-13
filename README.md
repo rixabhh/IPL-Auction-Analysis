@@ -89,3 +89,5 @@ The analysis answers critical questions such as:
 ## 👤 Author
 
 **Rishabh**
+* [GitHub Profile](https://github.com/rixabhh)
+* [LinkedIn](https://www.linkedin.com/in/rishabbh/)
